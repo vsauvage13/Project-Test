@@ -39,8 +39,8 @@
         }
     },
 	"styles": {},
-	"customTemplates": {},
-	"templateParts": {},
+	"customTemplates": [],
+	"templateParts": [],
 	"patterns": []
 }
 
