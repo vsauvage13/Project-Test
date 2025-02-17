@@ -17,5 +17,5 @@ Version: 1.0
 
 /* General Form Styling */
 .wp-block-contact-form-7-contact-form-selector p {
-    color: var(--contrast-color);
+    color: var(--base-color);
 }
