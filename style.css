@@ -16,66 +16,6 @@ Version: 1.0
 }
 
 /* General Form Styling */
-.wp-block-contact-form-7-contact-form-selector {
+.wp-block-contact-form-7-contact-form-selector p {
     color: var(--contrast-color);
-    padding: 20px;
-    border-radius: 8px;
-}
-
-/* Form Field Styling */
-.wpcf7-form-control {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 12px;
-    border: 2px solid var(--secondary-color);
-    border-radius: 4px;
-    background-color: #fff;
-    color: var(--contrast-color);
-}
-
-/* Focus Styles */
-.wpcf7-form-control:focus {
-    border-color: var(--primary-color);
-    box-shadow: 0 0 5px var(--primary-color);
-}
-
-/* Submit Button Styling */
-.wpcf7-submit {
-    background-color: var(--primary-color);
-    color: #fff;
-    border: none;
-    padding: 12px 20px;
-    font-size: 16px;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-.wpcf7-submit:hover {
-    background-color: var(--secondary-color);
-}
-
-/* Select and Textarea Styling */
-.wpcf7-select, .wpcf7-textarea {
-    border: 2px solid var(--secondary-color);
-}
-
-.wpcf7-select:focus, .wpcf7-textarea:focus {
-    border-color: var(--primary-color);
-    box-shadow: 0 0 5px var(--primary-color);
-}
-
-/* Error Message */
-.wpcf7-not-valid-tip {
-    color: var(--error-color);
-    font-size: 14px;
-    margin-top: 5px;
-}
-
-/* Success Message */
-.wpcf7-response-output {
-    background-color: var(--success-color);
-    color: white;
-    padding: 10px;
-    border-radius: 5px;
-    margin-top: 10px;
 }
